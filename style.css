@@ -1,0 +1,20 @@
+body{
+    background-color: paleturquoise;
+    color: deepskyblue;
+}
+.heading{
+    width: 80%;
+    font-size: 22px;
+    border-radius: 20px;
+    font-family: 'Montagu Slab', serif;
+}
+.name_of_objects, #result_objects_name, #result_objects_accuracy{
+    color:black;
+    font-family: 'Montagu Slab', serif;
+    font-size: larger;
+}
+#camera{
+    border: 2px ridge darkcyan;
+    width: 350px;
+    height: 300px;
+}
